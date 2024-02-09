@@ -1,0 +1,8 @@
+StatName	BaseValue	LEAVE LAST LINE BLANK
+maxHP	100
+incMovementSpeed	0
+incAttackSpeed	0
+addedProjectiles	0
+incDamage	0
+addedMinDMG	10
+addedMaxDMG	0

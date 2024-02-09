@@ -1,0 +1,42 @@
+Type	Subtype	Name	Weight	Val1	Val2
+armour	helmet	Iron Cap	100	5	5
+armour	helmet	Cone Helmet	100	10	10
+armour	helmet	Closed Helmet	100	15	15
+armour	helmet	Gladiator Helmet	100	20	20
+armour	helmet	Burgonet	100	25	25
+armour	chestArmour	Iron Vest	100	10	10
+armour	chestArmour	Chestplate	100	20	20
+armour	chestArmour	Full Plate	100	30	30
+armour	chestArmour	Gladiator Plate	100	40	40
+armour	chestArmour	Regal Plate	100	50	50
+armour	boots	Iron Shinguards	100	5	5
+armour	boots	Heavy Boots	100	10	10
+armour	boots	Greaves	100	15	15
+armour	boots	Gladiator Greaves	100	20	20
+armour	boots	Noble Greaves	100	25	25
+armour	gloves	Iron Wraps	100	5	5
+armour	gloves	Gauntlets	100	10	10
+armour	gloves	Reinforced Gauntlets	100	15	15
+armour	gloves	Gladiator Gauntlets	100	20	20
+armour	gloves	Lordly Gauntlets	100	25	25
+weapon	sword	Iron Blade	100	5	10
+weapon	sword	Sabre	100	11	15
+weapon	sword	Shortsword	100	16	20
+weapon	sword	Gladiator Blade	100	21	25
+weapon	sword	Knightly Foil	100	26	30
+weapon	bow	Crude Bow	100	5	10
+weapon	bow	Recurve Bow	100	11	15
+weapon	bow	Assassin Longbow	100	16	20
+weapon	bow	Gladiator Longbow	100	21	25
+weapon	bow	Cavalry Longbow	100	26	30
+weapon	staff	Cedar Branch	100	5	10
+weapon	staff	Primitive Staff	100	11	15
+weapon	staff	Long Staff	100	16	20
+weapon	staff	Gladiator ArchStaff	100	21	25
+weapon	staff	Grandmagus ArchStaff	100	26	30
+jewellery	ring	Gold Ring	100		
+jewellery	ring	Jewelled Ring	100		
+jewellery	ring	Engraved Ring	100		
+jewellery	amulet	Gold Amulet	100		
+jewellery	amulet	Jewelled Amulet	100		
+jewellery	amulet	Engraved Amulet	100		

@@ -1,0 +1,21 @@
+Base Type	Modifier	Weight	val1	val2
+weapon	incAttackSpeed	100	11	15
+weapon	incAttackSpeed	100	16	20
+weapon	incAttackSpeed	100	21	25
+weapon	incAttackSpeed	100	26	30
+weapon	incAttackSpeed	100	31	35
+weapon	addedProjectiles	50	1	1
+weapon	addedProjectiles	50	2	2
+armour	maxHP	100	21	30
+armour	maxHP	100	31	40
+armour	maxHP	100	41	50
+armour	maxHP	100	51	60
+armour	maxHP	100	61	70
+armour	maxHP	100	71	80
+chestArmour	maxHP	100	81	90
+chestArmour	maxHP	100	91	100
+boots	incMovementSpeed	100	6	10
+boots	incMovementSpeed	100	11	15
+boots	incMovementSpeed	100	16	20
+boots	incMovementSpeed	100	21	25
+boots	incMovementSpeed	100	26	30
